@@ -1,6 +1,6 @@
 # latres
 
-A new Flutter project.
+DimasRahmadhan_124220024_PrakPAM_LatihanResponsi
 
 ## Getting Started
 
